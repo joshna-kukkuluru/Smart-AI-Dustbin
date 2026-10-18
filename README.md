@@ -135,10 +135,12 @@ Actual performance may vary with lighting, object orientation, background, and t
 - Connect the HC-SR04 Echo output to the ESP32 through a suitable voltage divider.
 - Keep wires away from moving servo arms and hinges.
 
-## Author
-
-Add your name and GitHub profile here.
-
 ## License
 
-Choose and add an appropriate open-source license before publishing the repository.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Joshna Kukkuluru**
+
+GitHub: https://github.com/joshna-kukkuluru
