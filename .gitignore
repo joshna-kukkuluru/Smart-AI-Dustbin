@@ -1,0 +1,16 @@
+
+.venv_trash/
+__pycache__/
+*.py[cod]
+.vscode/
+.env
+*.log
+
+# Large datasets - add intentionally if needed
+ai/datasets/
+
+# Temporary model experiments
+
+
+yolo11n.pt
+datasets - Shortcut.lnk
