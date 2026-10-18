@@ -136,9 +136,8 @@ Actual performance may vary with lighting, object orientation, background, and t
 - Keep wires away from moving servo arms and hinges.
 
 ## Author
-
-Add your name and GitHub profile here.
-
+Joshna KUKKULURU 
+https://github.com/joshna-kukkuluru
 ## License
 
 Choose and add an appropriate open-source license before publishing the repository.
